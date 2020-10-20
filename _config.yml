@@ -7,8 +7,8 @@ description: Xizhi's Ideas & Blogs
 #   line in _config.yml. It will appear in your document head meta (for
 #   Google search results) and in your feed.xml site description.
 
-baseurl: "https://jeiyoon.github.io/k4ke/" # the subpath of your site, e.g. /blog/
-url: "https://jeiyoon.github.io/k4ke/" # the base hostname & protocol for your site
+baseurl: "https://jeiyoon.github.io/k4ke" # the subpath of your site, e.g. /blog/
+url: "https://jeiyoon.github.io/k4ke" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username: k4ke
 permalink: /:year/:month/:day/:title/
