@@ -2,7 +2,7 @@
 layout: frontpage
 ---
 
-## Welcome to my website
+## k4ke
 
-This is the place where I share my ideas on topics like [Paracraft](http://www.paracraft.cn) software design, artificial intelligence and education. 
+Multi-domain task-oriented dialog system, reinforcement learning, inverse reinforcement learning, meta-reinforced learning. This is the place where I share my ideas on theses topics. 
 Feel free to send me emails or join our team. 
