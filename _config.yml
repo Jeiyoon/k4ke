@@ -10,7 +10,7 @@ description: Dialog Systems and Reinforcement Learning.
 baseurl: "https://jeiyoon.github.io/k4ke" # the subpath of your site, e.g. /blog/
 url: "https://jeiyoon.github.io/k4ke" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
-github_username: k4ke
+github_username: jeiyoon
 permalink: /:year/:month/:day/:title/
 # this is the url root of the view source link on the footer page.
 viewsourceroot: https://github.com/Jeiyoon/k4ke/blob/master/
