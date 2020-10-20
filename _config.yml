@@ -1,16 +1,16 @@
 # Site settings
-title: k4ke
-email: k4ke@korea.ac.kr
-description: Dialog sysytems and Reinforcement learning.
+title: LiXizhi's Personal Website
+email: lixizhi@yeah.net
+description: Xizhi's Ideas & Blogs
 # > # this means to ignore newlines until "baseurl:"
 #   Write an awesome description for your new site here. You can edit this
 #   line in _config.yml. It will appear in your document head meta (for
 #   Google search results) and in your feed.xml site description.
 
-# baseurl: "" # the subpath of your site, e.g. /blog/
-# url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "https://jeiyoon.github.io/k4ke/" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
-github_username: k4ke
+github_username: LiXizhi
 permalink: /:year/:month/:day/:title/
 # this is the url root of the view source link on the footer page.
 viewsourceroot: https://github.com/LiXizhi/LiXizhi.github.io/blob/master/
@@ -22,7 +22,7 @@ newsourceroot: https://github.com/LiXizhi/LiXizhi.github.io/new/master
 #duoshuo_url: "http://lixizhi.github.io"
 # disqus.com commenting system. please note that it is exclusive with duoshuo.com
 disqus_shortname: lixizhi
-disqus_url: "https://jeiyoon.github.io/k4ke/"
+disqus_url: "http://lixizhi.github.io"
 #########################################
 
 # Build settings
