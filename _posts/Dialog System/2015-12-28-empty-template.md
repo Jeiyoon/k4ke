@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-categories: diary
+categories: Dialog System
 ---
 
 ## Empty diary template
