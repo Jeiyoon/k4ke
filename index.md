@@ -2,7 +2,7 @@
 layout: frontpage
 ---
 
-## 🍰k4ke
+## k4ke
 
 Multi-domain task-oriented dialog system, Reinforcement learning, Inverse reinforcement learning, Meta-reinforced learning. 
 
