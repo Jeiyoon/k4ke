@@ -1,6 +1,6 @@
 # Site settings
 title: 🍰k4ke
-logo: "https://github.com/Jeiyoon/k4ke/images/cake.jpg"
+logo: /images/cake.jpg/
 email: k4ke@korea.ac.kr
 description: Dialog Systems and Reinforcement Learning.
 # > # this means to ignore newlines until "baseurl:"
