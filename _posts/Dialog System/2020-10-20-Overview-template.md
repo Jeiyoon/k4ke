@@ -9,4 +9,4 @@ comments: true
 ## 0. 서론
 
 
-(이 포스트는 [Jianfeng Gao et al.,](https://arxiv.org/abs/1809.08267))
+(이 포스트는 [Jianfeng Gao et al.,](https://arxiv.org/abs/1809.08267) )
