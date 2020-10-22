@@ -36,6 +36,9 @@ comments: true
 
 
 ---
-## 1. 개요
 
-ㅁㄴㅇ
+## 1. Background and Introduction
+
+---
+
+### 1.1 Bootstrapping Statistical Dialogue Managers
