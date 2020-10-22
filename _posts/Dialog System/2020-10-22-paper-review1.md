@@ -9,6 +9,9 @@ comments: true
 ## 0. 서론
 
 
+&nbsp;
+
+
 논문 링크: [http://mi.eng.cam.ac.uk/~sjy/papers/stwy07.pdf](http://mi.eng.cam.ac.uk/~sjy/papers/stwy07.pdf)
 
 코드 링크: [https://github.com/truthless11/GDPL](https://github.com/truthless11/GDPL)를 참조
@@ -16,7 +19,7 @@ comments: true
 저자: Schatzmann et al., 2007 NAACL
 
   
-&nasp;  
+&nbsp;
   
   
 이번 chapter에서는 task-oriented dialog system 전체적인 개요에 대해 알아보려고 합니다.
