@@ -42,3 +42,7 @@ comments: true
 ---
 
 ### 1.1 Bootstrapping Statistical Dialogue Managers
+
+---
+
+이 장에서는 기존의 Dialogue Manager(DM)를 statistical approach로 디자인 하는 문제점을 나열하고 있습니다.   
