@@ -6,7 +6,7 @@ categories: DialogSystem
 comments: true
 ---
 
-## 0. 서론
+## 0. Abstract
 
 ---
 (논문 링크: [http://mi.eng.cam.ac.uk/~sjy/papers/stwy07.pdf](http://mi.eng.cam.ac.uk/~sjy/papers/stwy07.pdf))
@@ -20,13 +20,12 @@ comments: true
 &nbsp;
   
   
-이번 chapter에서는 task-oriented dialog system 전체적인 개요에 대해 알아보려고 합니다.
+이번 포스팅에서는 Task-oriented dialog에서 정말 많이 쓰이는 Agenda-based user simulator에 대해 알아보려고 합니다.
 
 
-1) Task-oriented dialog system 이란?
 
 
-호텔 예약이나 영화 티켓 예약과 같은 사용자의 특정한 목적과 도메인에   
+
 
 
 ## 1. 개요
