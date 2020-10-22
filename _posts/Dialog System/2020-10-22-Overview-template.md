@@ -14,6 +14,12 @@ comments: true
 
 이번 chapter에서는 task-oriented dialog system 전체적인 개요에 대해 알아보려고 합니다.
 
+
+1) Task-oriented dialog system 이란?
+
+
+
+
 ## 1. 개요
 
 ㅁㄴㅇ
