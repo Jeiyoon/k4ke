@@ -20,7 +20,7 @@ comments: true
 &nbsp;
   
   
-이번 포스팅에서는 Task-oriented dialog에서 정말 많이 쓰이는 Agenda-based user simulator에 대해 알아보려고 합니다. 2007년에 나온 논문이지만 현재까지 여러 논문에서 많이 쓰이고 있어서 꼭 알아두어야 하는 논문입니다. 이 논문에서 지적하는 기존의 statistical dialogue manager의 가장 큰 문제점은 <span style="color:DeepSkyBlue">bootstrapping</span>에 있다고 얘기합니다.
+이번 포스팅에서는 Task-oriented dialog에서 정말 많이 쓰이는 Agenda-based user simulator에 대해 알아보려고 합니다. 2007년에 나온 논문이지만 현재까지 여러 논문에서 많이 쓰이고 있어서 꼭 알아두어야 하는 논문입니다. 물론 10년도 더 된 논문이니 이 점을 감안하고 보셔야될 것 같습니다. 이 논문에서 지적하는 기존의 statistical dialogue manager의 가장 큰 문제점은 <span style="color:DeepSkyBlue">bootstrapping</span>에 있다고 얘기합니다.
 
 
 &nbsp;
@@ -51,6 +51,11 @@ comments: true
 &nbsp;
 
 
-하지만, DM을 학습시키기 위한 각 도메인에 해당하는 적절한 데이터가 없다는 점을 지적합니다. 기존의 <span style="color:DeepSkyBlue">Wizard-of-Oz(WoZ)</span>를 통해 dialogue를 기록할 수 있지만 시간이 많이 소요되고, human-human 대화밖에 기록할 수 없다는 단점이 있고 human-computer dialog가 필요한 task에는 적절하지 않다는 점을 지적합니다. 
+하지만, DM을 학습시키기 위한 각 도메인에 해당하는 적절한 데이터가 없다는 점을 지적합니다. 기존의 <span style="color:DeepSkyBlue">Wizard-of-Oz(WoZ)</span>를 통해 dialogue를 기록할 수 있지만 시간이 많이 소요되고, human-human 대화밖에 기록할 수 없다는 단점이 있고 human-computer dialog가 필요한 이 task에는 적절하지 않다는 점을 지적합니다. 
 
+
+&nbsp;
+
+
+human-computer dialogue를 기록하기위한 기존의 handcrafted DM prototype
 
