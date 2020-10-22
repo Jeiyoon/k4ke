@@ -23,7 +23,10 @@ comments: true
 이번 포스팅에서는 Task-oriented dialog에서 정말 많이 쓰이는 Agenda-based user simulator에 대해 알아보려고 합니다.
 
 
+이 논문에서 지적하는 기존의 statistical dialogue manager의 가장 큰 문제점은 bootstrapping에 있다고 얘기합니다.
 
+
+여기서 bootstrap이란  
 
 
 
