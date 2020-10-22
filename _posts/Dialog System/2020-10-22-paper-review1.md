@@ -8,9 +8,6 @@ comments: true
 
 ## 0. 서론
 
-
-&nbsp;
-
 ---
 (논문 링크: [http://mi.eng.cam.ac.uk/~sjy/papers/stwy07.pdf](http://mi.eng.cam.ac.uk/~sjy/papers/stwy07.pdf))
 
