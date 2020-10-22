@@ -45,4 +45,11 @@ comments: true
 
 ---
 
-이 장에서는 기존의 Dialogue Manager(DM)를 statistical approach로 디자인 하는 문제점을 나열하고 있습니다.   
+이 장에서는 기존의 Dialogue Manager(DM)를 statistical approach로 디자인 하는 문제점을 나열하고 있습니다. 핵심은 design criteria를 objective reward function으로 formalize 하는 능력과 real dialogue data로부터 optimal policy를 학습하는 것에 있다고 합니다. 
+
+
+&nbsp;
+
+
+하지만, 
+
