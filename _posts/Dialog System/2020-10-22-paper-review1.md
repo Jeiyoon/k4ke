@@ -17,6 +17,7 @@ comments: true
 (코드 링크: [https://github.com/truthless11/GDPL](https://github.com/truthless11/GDPL)를 참조)
 
 (저자: Schatzmann et al., 2007 NAACL)
+
 ---
   
 &nbsp;
