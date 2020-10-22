@@ -9,7 +9,8 @@ comments: true
 ## 0. 서론
 
 
-(이 포스트는 [Jianfeng Gao et al.,](https://arxiv.org/abs/1809.08267) 의 책을 기반으로 작성하였습니다.)
+논문 링크: http://mi.eng.cam.ac.uk/~sjy/papers/stwy07.pdf
+코드 링크: https://github.com/truthless11/GDPL
 
 
 이번 chapter에서는 task-oriented dialog system 전체적인 개요에 대해 알아보려고 합니다.
