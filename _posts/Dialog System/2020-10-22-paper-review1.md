@@ -45,11 +45,11 @@ comments: true
 
 ---
 
-이 장에서는 기존의 Dialogue Manager(DM)를 statistical approach로 디자인 하는 문제점을 나열하고 있습니다. 핵심은 design criteria를 objective reward function으로 formalize 하는 능력과 real dialogue data로부터 optimal policy를 학습하는 것에 있다고 합니다. 
+이 장에서는 기존의 Dialogue Manager(DM)를 statistical approach로 디자인 하는 문제점, 즉 statistical dialogue managers를 bootstrapping하는 문제점을 나열하고 있습니다. 통계기반의 DM의 핵심은 design criteria를 objective reward function으로 formalize 하는 능력과 real dialogue data로부터 optimal policy를 학습하는 것에 있다고 합니다. 
 
 
 &nbsp;
 
 
-하지만, DM을 학습시키기 위한 각 도메인에 해당하는 적절한 데이터가 없다는 점을 지적합니다. 기존의 Wizard-of-Oz(WoZ)를 통해 dialogue를 기록할 수 있지만 시간이 많이 소요되고, human-human 대화밖에 기록할 수 없다는 단점이 있고 human-computer dialog가 필요한 task에는 적절하지 않다느 점을 지적합니다.   
+하지만, DM을 학습시키기 위한 각 도메인에 해당하는 적절한 데이터가 없다는 점을 지적합니다. 기존의 Wizard-of-Oz(WoZ)를 통해 dialogue를 기록할 수 있지만 시간이 많이 소요되고, human-human 대화밖에 기록할 수 없다는 단점이 있고 human-computer dialog가 필요한 task에는 적절하지 않다는 점을 지적합니다.   
 
