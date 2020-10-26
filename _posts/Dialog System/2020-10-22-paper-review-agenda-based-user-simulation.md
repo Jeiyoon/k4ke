@@ -3,6 +3,7 @@ layout: post
 title:  "[논문 리뷰] Agenda-Based User Simulation for Bootstrapping a POMDP Dialogue System"
 data:   2020-10-22 13:00:00 
 categories: DialogSystem
+use_math: true
 comments: true
 ---
 
