@@ -21,13 +21,13 @@ comments: true
 &nbsp;
   
   
-이번 포스팅에서는 Task-oriented dialog에서 정말 많이 쓰이는 Agenda-based user simulator에 대해 알아보려고 합니다. 2007년에 나온 논문이지만 현재까지 여러 논문에서 많이 쓰이고 있고 저도 최근에 논문을 쓰면서 이 시뮬레이터로 실험을 진행하였습니다. 물론 10년도 더 된 논문이니 이 점을 감안하고 보셔야하지만 꼭 알아두셔야 하는 논문입니다. 그럼 시작하겠습니다. 이 논문에서 지적하는 기존의 statistical dialogue manager의 가장 큰 문제점은 <span style="color:DeepSkyBlue">bootstrapping</span>에 있다고 얘기합니다.
+이번 포스팅에서는 Task-oriented dialog에서 정말 많이 쓰이는 Agenda-based user simulator에 대해 알아보려고 합니다. 2007년에 나온 논문이지만 현재까지 여러 논문에서 많이 쓰이고 있고 저도 최근에 논문을 쓰면서 이 시뮬레이터로 실험을 진행하였습니다. 물론 10년도 더 된 논문이니 이 점을 감안하고 보셔야하지만 꼭 알아두셔야 하는 논문입니다. 그럼 시작하겠습니다. 
 
 
 &nbsp;
 
 
-여기서 <span style="color:DeepSkyBlue">bootstrapping</span>이란 통계쪽에서 사용되는 용어로 데이터에서 얻어진 통계량의 표본오차를 확률 분포의 가정을 두지 않고 non-parametric하게 평가하기 위한 방법을 의미합니다. 쉽게말해서 주어진 데이터셋을 모집단을 대표하는 독립표본으로 가정하고, 그 자료로부터 중복을 허용한 무작위 재추출로 얻어진 통계량을 의미합니다. 주어진 데이터에 대해 평균과 표준편차등의 통계량을 계산하겠다는 의미입니다.
+이 논문에서 지적하는 기존의 statistical dialogue manager의 가장 큰 문제점은 <span style="color:DeepSkyBlue">bootstrapping</span>에 있다고 얘기합니다. 여기서 <span style="color:DeepSkyBlue">bootstrapping</span>이란 통계쪽에서 사용되는 용어로 데이터에서 얻어진 통계량의 표본오차를 확률 분포의 가정을 두지 않고 non-parametric하게 평가하기 위한 방법을 의미합니다. 쉽게말해서 주어진 데이터셋을 모집단을 대표하는 독립표본으로 가정하고, 그 자료로부터 중복을 허용한 무작위 재추출로 얻어진 통계량을 의미합니다. 주어진 데이터에 대해 평균과 표준편차등의 통계량을 계산하겠다는 의미입니다.
 
 
 &nbsp;
