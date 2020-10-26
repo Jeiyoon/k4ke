@@ -66,7 +66,7 @@ human-computer dialogue를 기록하기위한 기존의 handcrafted DM prototype
 
 ---
 
-이 장에서는 기존의 Dialogue Manager(DM)를 statistical approach로 디자인 하는 문제점, 즉 statistical dialogue managers를 bootstrapping하는 문제점을 나열하고 있습니다. 통계기반의 DM의 핵심은 design criteria를 objective reward function으로 formalize 하는 능력과 real dialogue data로부터 optimal policy를 학습하는 것에 있다고 합니다. 
+User Simulation-Based Training은 다음과 같은 두 단계로 진행됩니다. (1) 적은 대화 데이터로 user model 학습. (2) 
 
 
 &nbsp;
