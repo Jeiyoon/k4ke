@@ -62,7 +62,7 @@ human-computer dialogue를 기록하기위한 기존의 handcrafted DM prototype
 
 
 $$
-\frac{3}{2}
+\frac{2}{3}
 $$
 
 
