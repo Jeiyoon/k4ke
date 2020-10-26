@@ -66,7 +66,21 @@ human-computer dialogue를 기록하기위한 기존의 handcrafted DM prototype
 
 ---
 
-User Simulation-Based Training은 다음과 같은 두 단계로 진행됩니다. (1) 적은 대화 데이터로 user model 학습. (2) 
+기존의 User Simulation-Based Training은 다음과 같은 두 단계로 진행됩니다. (1) 적은 대화 데이터로 user model 학습. (2) 학습된 모델을 통해 interactive하게 simulation을 하며 DM을 학습. 
+
+
+&nbsp;
+
+
+하지만, 이러한 방법은 corpus가 suitably annotated 되어있다는 가정이 필요하고, 데이터가 없을 경우 모델 파라미터를 ~~노가다~~ handcrated value를 assign 해야합니다.    
+
+---
+
+### 1.3 Paper Outline
+
+---
+
+이 장에서는 기존의 Dialogue Manager(DM)를 statistical approach로 디자인 하는 문제점, 즉 statistical dialogue managers를 bootstrapping하는 문제점을 나열하고 있습니다. 통계기반의 DM의 핵심은 design criteria를 objective reward function으로 formalize 하는 능력과 real dialogue data로부터 optimal policy를 학습하는 것에 있다고 합니다. 
 
 
 &nbsp;
