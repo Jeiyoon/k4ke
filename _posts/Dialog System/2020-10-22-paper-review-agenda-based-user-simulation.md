@@ -60,7 +60,26 @@ comments: true
 
 human-computer dialogue를 기록하기위한 기존의 handcrafted DM prototype을 이용하면 되지만 앞에서 말한 데이터 부족으로 인한 DM을 학습할 수 없다고 말합니다. 심지어 위의 두가지 방식으로 기록한 corpus는 statistical DM을 학습하기에 많이 부족한 편입니다 ($10^4$ 이상이 필요하지만 그 당시 $10^3$밖에 존재하지 않았음). 
 
+---
 
-$\frac{21}{3}$
+### 1.2 User Simulation-Based Training
+
+---
+
+이 장에서는 기존의 Dialogue Manager(DM)를 statistical approach로 디자인 하는 문제점, 즉 statistical dialogue managers를 bootstrapping하는 문제점을 나열하고 있습니다. 통계기반의 DM의 핵심은 design criteria를 objective reward function으로 formalize 하는 능력과 real dialogue data로부터 optimal policy를 학습하는 것에 있다고 합니다. 
+
+
+&nbsp;
+
+
+하지만, DM을 학습시키기 위한 각 도메인에 해당하는 적절한 데이터가 없다는 점을 지적합니다. 기존의 <span style="color:DeepSkyBlue">Wizard-of-Oz(WoZ)</span>를 통해 dialogue를 기록할 수 있지만 시간이 많이 소요되고, human-human 대화밖에 기록할 수 없다는 단점이 있고 human-computer dialog가 필요한 이 task에는 적절하지 않다는 점을 지적합니다. 
+
+
+&nbsp;
+
+
+human-computer dialogue를 기록하기위한 기존의 handcrafted DM prototype을 이용하면 되지만 앞에서 말한 데이터 부족으로 인한 DM을 학습할 수 없다고 말합니다. 심지어 위의 두가지 방식으로 기록한 corpus는 statistical DM을 학습하기에 많이 부족한 편입니다 ($10^4$ 이상이 필요하지만 그 당시 $10^3$밖에 존재하지 않았음). 
+
+
 
 
