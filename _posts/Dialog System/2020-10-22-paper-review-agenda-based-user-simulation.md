@@ -80,7 +80,7 @@ human-computer dialogue를 기록하기위한 기존의 handcrafted DM prototype
 
 ---
 
-지금까지 나온 문제점들을 한마디로 요약하면 **"학습데이터가 적다ㅠ"** 입니다.  
+지금까지 나온 문제점들을 한마디로 요약하면 **"학습데이터가 적다ㅠ"** 입니다. 이 논문에서는 *user goal*과 *user agenda*라는 compact representation을 통해 user 행동을 simulation하는 새로운 확률적인 방법에 대한 내용을 다룹니다.   
 
 
 &nbsp;
