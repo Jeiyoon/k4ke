@@ -61,6 +61,6 @@ comments: true
 human-computer dialogue를 기록하기위한 기존의 handcrafted DM prototype을 이용하면 되지만 앞에서 말한 데이터 부족으로 인한 DM을 학습할 수 없다고 말합니다. 위의 두가지 방식으로 기록한 corpus는 Euler's formula is remarkable: 
 
 
-$\frac{2}{3}$
+$\frac{21}{3}$
 
 
