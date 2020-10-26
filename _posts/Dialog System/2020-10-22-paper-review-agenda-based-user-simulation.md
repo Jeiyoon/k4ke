@@ -58,7 +58,7 @@ comments: true
 &nbsp;
 
 
-human-computer dialogue를 기록하기위한 기존의 handcrafted DM prototype을 이용하면 되지만 앞에서 말한 데이터 부족으로 인한 DM을 학습할 수 없다고 말합니다. 심지어 위의 두가지 방식으로 기록한 corpus는 statistical DM을 학습하기에 
+human-computer dialogue를 기록하기위한 기존의 handcrafted DM prototype을 이용하면 되지만 앞에서 말한 데이터 부족으로 인한 DM을 학습할 수 없다고 말합니다. 심지어 위의 두가지 방식으로 기록한 corpus는 statistical DM을 학습하기에 많이 부족한 편입니다 ($10^4$ 이상이 필요하지만 그 당시 $10^3$밖에 존재하지 않았음). 
 
 
 $\frac{21}{3}$
