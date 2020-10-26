@@ -26,8 +26,13 @@ disqus_shortname: https-jeiyoon-github-io-k4ke
 disqus_url: "https://jeiyoon.github.io/k4ke"
 #########################################
 
-# Build settings
+# Math equation
 markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
 
 # highlight
 # highlighter: pygments
