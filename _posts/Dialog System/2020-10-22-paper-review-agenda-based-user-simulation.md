@@ -21,7 +21,7 @@ comments: true
 &nbsp;
   
   
-이번 포스팅에서는 Task-oriented dialog에서 정말 많이 쓰이는 Agenda-based user simulator에 대해 알아보려고 합니다. 2007년에 나온 논문이지만 현재까지 여러 논문에서 많이 쓰이고 있어서 꼭 알아두어야 하는 논문입니다. 물론 10년도 더 된 논문이니 이 점을 감안하고 보셔야될 것 같습니다. 이 논문에서 지적하는 기존의 statistical dialogue manager의 가장 큰 문제점은 <span style="color:DeepSkyBlue">bootstrapping</span>에 있다고 얘기합니다.
+이번 포스팅에서는 Task-oriented dialog에서 정말 많이 쓰이는 Agenda-based user simulator에 대해 알아보려고 합니다. 2007년에 나온 논문이지만 현재까지 여러 논문에서 많이 쓰이고 있고 저도 최근에 논문을 쓰면서 이 시뮬레이터로 실험을 진행하였습니다. 물론 10년도 더 된 논문이니 이 점을 감안하고 보셔야하지만 꼭 알아두셔야 하는 논문입니다. 그럼 시작하겠습니다. 이 논문에서 지적하는 기존의 statistical dialogue manager의 가장 큰 문제점은 <span style="color:DeepSkyBlue">bootstrapping</span>에 있다고 얘기합니다.
 
 
 &nbsp;
@@ -58,7 +58,7 @@ comments: true
 &nbsp;
 
 
-human-computer dialogue를 기록하기위한 기존의 handcrafted DM prototype을 이용하면 되지만 앞에서 말한 데이터 부족으로 인한 DM을 학습할 수 없다고 말합니다. 위의 두가지 방식으로 기록한 corpus는 Euler's formula is remarkable: 
+human-computer dialogue를 기록하기위한 기존의 handcrafted DM prototype을 이용하면 되지만 앞에서 말한 데이터 부족으로 인한 DM을 학습할 수 없다고 말합니다. 심지어 위의 두가지 방식으로 기록한 corpus는 statistical DM을 학습하기에 
 
 
 $\frac{21}{3}$
